@@ -1,0 +1,5 @@
+{
+  "name": "Cinematic Storyboard AI",
+  "description": "An AI-powered storyboard generator that acts as an 'AI Director' to create detailed, consistent, and cinematic prompts for short, viral videos. It helps content creators write effective prompts for Text-to-Video models.",
+  "requestFramePermissions": []
+}
